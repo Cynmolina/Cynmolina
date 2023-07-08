@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cynmolina
-- 👀 I’m interested in Python, data analitycs
+- 👀 I’m interested in Python, data analytics
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on business intelligence
 - 📫 How to reach me ...
 
 <!---
